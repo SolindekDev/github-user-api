@@ -1,0 +1,29 @@
+{
+  "name": "github-user-api",
+  "version": "1.0.0",
+  "description": "You can get some informations from Github API.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolindekDev/github-user-api.git"
+  },
+  "keywords": [
+    "Github",
+    "User",
+    "API",
+    "GithubAPI",
+    "GithubUserApi"
+  ],
+  "author": "Solindek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SolindekDev/github-user-api/issues"
+  },
+  "homepage": "https://github.com/SolindekDev/github-user-api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
